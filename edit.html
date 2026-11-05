@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LSFD – Éditeur de carte</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="editor-page">
+  <div id="pin-gate" class="pin-gate" role="dialog" aria-modal="true" aria-labelledby="pin-title">
+    <form id="pin-form" class="pin-card">
+      <div class="pin-brand">LSFD</div>
+      <h1 id="pin-title">Accès au mode éditeur</h1>
+      <p>Entrez le code PIN administrateur pour modifier la carte.</p>
+      <label for="editor-pin">Code PIN</label>
+      <input id="editor-pin" type="password" inputmode="numeric" autocomplete="off" maxlength="32" required autofocus>
+      <p id="pin-error" class="pin-error" aria-live="polite"></p>
+      <button class="primary" type="submit">Déverrouiller</button>
+      <a href="index.html">Retour à la carte publique</a>
+    </form>
+  </div>
+  <header><div class="brand"><span class="brand-mark">LSFD</span><div><h1>Éditeur cartographique</h1><small>Gestion des bornes et des emplacements</small></div></div><a href="index.html" class="edit-link">← Retour à la carte</a></header>
+  <main class="editor-layout">
+    <aside class="sidebar">
+      <section class="panel"><h2>Ajouter un marqueur</h2><p class="hint">Sélectionnez un type, puis cliquez sur la carte.</p>
+        <div id="marker-type-selector" class="tool-grid">
+          <button data-type="hydrant-red" class="tool-button red"><span>●</span>Borne rouge</button>
+          <button data-type="hydrant-yellow" class="tool-button yellow"><span>●</span>Borne jaune</button>
+          <button data-type="firestation" class="tool-button"><span>🚒</span>Caserne</button>
+          <button data-type="hospital" class="tool-button"><span>✚</span>Hôpital</button>
+        </div>
+        <button id="draw-zone-btn" class="tool-button hazmat-button">⬡ Dessiner une zone HAZMAT</button>
+        <div class="inline-actions"><button id="finish-zone-btn" class="primary" hidden>Terminer le polygone</button><button id="cancel-zone-btn" class="secondary" hidden>Annuler</button></div>
+      </section>
+      <section class="panel"><h2>Affichage</h2><div id="type-menu" class="filter-list">Chargement…</div></section>
+      <section class="panel"><h2>Carte personnalisée</h2><p class="hint">Importez une image de carte PNG, JPG ou WEBP. Elle sera conservée dans ce navigateur.</p><button id="change-map-btn" class="secondary full">Changer l’image de la carte</button><input id="map-file" type="file" accept="image/png,image/jpeg,image/webp" hidden><button id="reset-map-btn" class="text-button">Restaurer la carte d’origine</button></section>
+      <section class="panel"><h2>Données</h2><div class="button-stack"><button id="export-json-btn" class="primary">Exporter JSON</button><button id="import-json-btn" class="secondary">Importer JSON</button><input type="file" id="import-json-file" accept=".json,application/json" hidden><button id="copy-json-btn" class="secondary">Copier le JSON</button><button id="clear-json-btn" class="danger">Tout supprimer</button></div></section>
+      <p id="status" class="status" aria-live="polite">Prêt. Déplacez les marqueurs en les faisant glisser.</p>
+    </aside>
+    <section class="map-area"><div id="map"></div><div class="map-tip">Glisser un marqueur pour le déplacer · Cliquer pour modifier ses informations</div></section>
+  </main>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script><script src="js/pin-config.js"></script><script src="js/pin-gate.js"></script><script src="js/storage.js"></script><script src="js/map-common.js"></script><script src="js/edit.js"></script>
+</body></html>
