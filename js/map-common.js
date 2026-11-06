@@ -1,4 +1,3 @@
-```javascript
 const MAP_BOUNDS = [[0, 0], [2047, 1657]];
 
 const TYPE_INFO = {
@@ -68,4 +67,3 @@ function addBaseMap(map, imageUrl) {
     MAP_BOUNDS
   ).addTo(map);
 }
-```
