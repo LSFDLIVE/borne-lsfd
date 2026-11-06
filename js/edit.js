@@ -28,7 +28,7 @@
       marker.on('dragend', () => {
         const p = marker.getLatLng(); item.x = p.lng; item.y = p.lat; save(); status('Position du marqueur enregistrée.');
       });
-      marker.on('click', () => editMarker(index));
+      marker.on('click', () => editMarker(index, marker));
     });
     data.hazmatZones.forEach((zone, index) => {
       const polygon = L.polygon(zone.points.map(p => [p.y,p.x]), {
@@ -42,41 +42,49 @@
     if (draftLayer) draftLayer.addTo(map);
   }
 
-  function editMarker(index) {
+  function editMarker(index, marker) {
     const item = data.markers[index];
     const facility = ['firestation','hospital'].includes(item.type);
     const popup = `<div class="marker-editor"><strong>${escapeHtml(TYPE_INFO[item.type].label)}</strong><label>Nom</label><input id="popup-name" value="${escapeHtml(item.nom || TYPE_INFO[item.type].label)}"><label>Commentaire</label><textarea id="popup-comment" rows="2" ${facility ? '' : 'disabled'}>${escapeHtml(item.commentaire || '')}</textarea><div class="popup-actions"><button class="save-popup" id="popup-save">Enregistrer</button><button class="delete-popup" id="popup-delete">Supprimer</button></div></div>`;
-    const marker = markerLayer.getLayers()[index];
-    marker.bindPopup(popup).openPopup();
+    // Attacher les événements AVANT openPopup : Leaflet peut déclencher
+    // popupopen immédiatement, sinon les boutons restent sans action.
+    marker.bindPopup(popup);
     marker.once('popupopen', () => {
       $('popup-save').onclick = () => {
         item.nom = $('popup-name').value.trim() || TYPE_INFO[item.type].label;
         if (facility) item.commentaire = $('popup-comment').value.trim();
-        save(); refresh(); status('Informations enregistrées.');
+        marker.closePopup(); save(); refresh(); status('Informations enregistrées.');
       };
       $('popup-delete').onclick = () => {
         if (!confirm('Supprimer cet emplacement ?')) return;
-        data.markers.splice(index, 1); save(); refresh(); status('Emplacement supprimé.');
+        marker.closePopup();
+        data.markers.splice(index, 1);
+        save(); refresh(); status('Emplacement supprimé.');
       };
     });
+    marker.openPopup();
   }
 
   function editZone(index) {
     const zone = data.hazmatZones[index];
     const popup = `<div class="marker-editor"><strong>Zone HAZMAT</strong><label>Nom</label><input id="zone-name" value="${escapeHtml(zone.nom || 'Zone HAZMAT')}"><label>Couleur</label><input id="zone-color" type="color" value="${escapeHtml(zone.color || '#eab308')}"><label>Transparence : <span id="opacity-value">${zone.opacity ?? 0.28}</span></label><input id="zone-opacity" type="range" min="0" max="1" step="0.05" value="${zone.opacity ?? 0.28}"><div class="popup-actions"><button class="save-popup" id="zone-save">Enregistrer</button><button class="delete-popup" id="zone-delete">Supprimer</button></div></div>`;
     const polygon = zoneLayer.getLayers()[index];
-    polygon.bindPopup(popup).openPopup();
+    // Même ordre que pour les marqueurs : écouter avant d'ouvrir la popup.
+    polygon.bindPopup(popup);
     polygon.once('popupopen', () => {
       $('zone-opacity').oninput = () => $('opacity-value').textContent = $('zone-opacity').value;
       $('zone-save').onclick = () => {
         zone.nom = $('zone-name').value.trim() || 'Zone HAZMAT'; zone.color = $('zone-color').value; zone.opacity = Number($('zone-opacity').value);
-        save(); refresh(); status('Zone HAZMAT mise à jour.');
+        polygon.closePopup(); save(); refresh(); status('Zone HAZMAT mise à jour.');
       };
       $('zone-delete').onclick = () => {
         if (!confirm('Supprimer cette zone HAZMAT ?')) return;
-        data.hazmatZones.splice(index, 1); save(); refresh(); status('Zone HAZMAT supprimée.');
+        polygon.closePopup();
+        data.hazmatZones.splice(index, 1);
+        save(); refresh(); status('Zone HAZMAT supprimée.');
       };
     });
+    polygon.openPopup();
   }
 
   document.querySelectorAll('[data-type]').forEach(button => button.addEventListener('click', () => {
