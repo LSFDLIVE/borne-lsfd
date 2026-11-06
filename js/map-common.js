@@ -9,7 +9,7 @@ function makeMarkerIcon(type) {
   const info = TYPE_INFO[type] || TYPE_INFO['hydrant-red'];
   const cls = type.startsWith('hydrant') ? 'map-pin hydrant-pin' : 'map-pin facility-pin';
   return L.divIcon({ className: '', html: `<div class="${cls}" style="--pin-color:${info.color}"><span>${info.symbol}</span></div>`,
-    iconSize: type.startsWith('hydrant') ? [12,12] : [28,30], iconAnchor: type.startsWith('hydrant') ? [9,9] : [18,35] });
+    iconSize: type.startsWith('hydrant') ? [12,12] : [20,22], iconAnchor: type.startsWith('hydrant') ? [6,6] : [14,28] });
 }
 function markerTooltipContent(item) {
   const name = escapeHtml(item.nom || TYPE_INFO[item.type]?.label || item.type);
