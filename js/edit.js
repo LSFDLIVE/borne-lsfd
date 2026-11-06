@@ -47,7 +47,7 @@ let drawingZone = false;
     const facility = ['firestation','hospital'].includes(item.type);
     const popup = `<div class="marker-editor"><strong>${escapeHtml(TYPE_INFO[item.type].label)}</strong><label>Nom</label><input id="popup-name" value="${escapeHtml(item.nom || TYPE_INFO[item.type].label)}"><label>Commentaire</label><textarea id="popup-comment" rows="2" ${facility ? '' : 'disabled'}>${escapeHtml(item.commentaire || '')}</textarea><div class="popup-actions"><button class="save-popup" id="popup-save">Enregistrer</button><button class="delete-popup" id="popup-delete">Supprimer</button></div></div>`;
     const marker = markerLayer.getLayers()[index];
-    marker.bindPopup(popup).openPopup();
+    marker.bindPopup(popup);
     marker.once('popupopen', () => {
       $('popup-save').onclick = () => {
         item.nom = $('popup-name').value.trim() || TYPE_INFO[item.type].label;
@@ -59,13 +59,14 @@ let drawingZone = false;
         data.markers.splice(index, 1); save(); refresh(); status('Emplacement supprimé.');
       };
     });
+    marker.openPopup();
   }
 
   function editZone(index) {
     const zone = data.hazmatZones[index];
     const popup = `<div class="marker-editor"><strong>Zone HAZMAT</strong><label>Nom</label><input id="zone-name" value="${escapeHtml(zone.nom || 'Zone HAZMAT')}"><label>Couleur</label><input id="zone-color" type="color" value="${escapeHtml(zone.color || '#eab308')}"><label>Transparence : <span id="opacity-value">${zone.opacity ?? 0.28}</span></label><input id="zone-opacity" type="range" min="0" max="1" step="0.05" value="${zone.opacity ?? 0.28}"><div class="popup-actions"><button class="save-popup" id="zone-save">Enregistrer</button><button class="delete-popup" id="zone-delete">Supprimer</button></div></div>`;
     const polygon = zoneLayer.getLayers()[index];
-    polygon.bindPopup(popup).openPopup();
+    polygon.bindPopup(popup);
     polygon.once('popupopen', () => {
       $('zone-opacity').oninput = () => $('opacity-value').textContent = $('zone-opacity').value;
       $('zone-save').onclick = () => {
@@ -77,6 +78,7 @@ let drawingZone = false;
         data.hazmatZones.splice(index, 1); save(); refresh(); status('Zone HAZMAT supprimée.');
       };
     });
+    polygon.openPopup();
   }
 
   document.querySelectorAll('[data-type]').forEach(button => button.addEventListener('click', () => {
