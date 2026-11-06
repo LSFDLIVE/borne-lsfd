@@ -1,4236 +1,4349 @@
-[
-  {
-    "x": 490.136,
-    "y": 241.375,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 479.441,
-    "y": 231.396,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 495.521,
-    "y": 225.341,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 533.118,
-    "y": 272.422,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 538.731,
-    "y": 279.586,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 540.602,
-    "y": 288.627,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 555.772,
-    "y": 285.158,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 564.419,
-    "y": 285.613,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 576.404,
-    "y": 278.449,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 590.361,
-    "y": 282.429,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 604.064,
-    "y": 288.002,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 609.374,
-    "y": 294.37,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 583.332,
-    "y": 322.061,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 571.094,
-    "y": 334.798,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 560.677,
-    "y": 330.477,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 554.913,
-    "y": 347.08,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 545.001,
-    "y": 341.394,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 541.462,
-    "y": 338.267,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 531.247,
-    "y": 335.935,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 528.365,
-    "y": 349.639,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 536.152,
-    "y": 343.384,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 568.566,
-    "y": 366.299,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 574.533,
-    "y": 379.377,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 571.701,
-    "y": 388.816,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 569.982,
-    "y": 390.181,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 563.206,
-    "y": 390.067,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 569.476,
-    "y": 395.071,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 552.384,
-    "y": 395.753,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 537.821,
-    "y": 429.301,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 531.449,
-    "y": 424.866,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 517.998,
-    "y": 426.458,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 514.256,
-    "y": 424.411,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 517.139,
-    "y": 388.361,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 516.936,
-    "y": 388.02,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 510.363,
-    "y": 392.569,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 510.059,
-    "y": 392,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 508.744,
-    "y": 432.315,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 509.705,
-    "y": 438.854,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 503.991,
-    "y": 441.981,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 503.991,
-    "y": 449.999,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 500.249,
-    "y": 457.505,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 493.675,
-    "y": 470.469,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 479.415,
-    "y": 480.818,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 466.419,
-    "y": 488.664,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 464.397,
-    "y": 488.437,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 469.15,
-    "y": 492.758,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 462.576,
-    "y": 493.327,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 451.856,
-    "y": 514.479,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 444.776,
-    "y": 523.805,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 430.011,
-    "y": 545.412,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 421.414,
-    "y": 548.369,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 408.064,
-    "y": 574.752,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 394.007,
-    "y": 586.807,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 377.724,
-    "y": 609.892,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 368.318,
-    "y": 631.727,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 382.983,
-    "y": 649.468,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 396.535,
-    "y": 648.785,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 407.862,
-    "y": 643.44,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 394.007,
-    "y": 615.806,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 412.11,
-    "y": 616.033,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 416.256,
-    "y": 614.441,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 408.975,
-    "y": 603.751,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 424.549,
-    "y": 587.83,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 418.178,
-    "y": 581.803,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 419.391,
-    "y": 577.823,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 401.996,
-    "y": 558.831,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 405.03,
-    "y": 558.831,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 398.659,
-    "y": 553.827,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 394.816,
-    "y": 544.047,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 390.669,
-    "y": 542.228,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 388.242,
-    "y": 538.702,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 409.885,
-    "y": 540.408,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 423.538,
-    "y": 554.737,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 398.861,
-    "y": 535.063,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 377.926,
-    "y": 537.11,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 395.119,
-    "y": 517.777,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 405.435,
-    "y": 510.499,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 428.595,
-    "y": 479.567,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 435.674,
-    "y": 479.453,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 439.821,
-    "y": 473.653,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 449.934,
-    "y": 475.586,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 443.765,
-    "y": 453.411,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 445.484,
-    "y": 448.862,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 448.417,
-    "y": 438.854,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 445.889,
-    "y": 430.78,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 448.923,
-    "y": 417.247,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 454.182,
-    "y": 403.6,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 457.014,
-    "y": 398.938,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 465.408,
-    "y": 384.04,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 467.532,
-    "y": 379.15,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 471.881,
-    "y": 362.205,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 468.341,
-    "y": 366.868,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 463.486,
-    "y": 375.966,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 455.901,
-    "y": 380.969,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 451.856,
-    "y": 393.934,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 444.878,
-    "y": 399.165,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 448.114,
-    "y": 399.847,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 440.63,
-    "y": 413.494,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 436.281,
-    "y": 412.812,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 438.911,
-    "y": 426.8,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 434.359,
-    "y": 426.003,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 437.394,
-    "y": 436.58,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 440.326,
-    "y": 444.768,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 430.921,
-    "y": 456.026,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 419.391,
-    "y": 469.673,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 403.311,
-    "y": 478.316,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 470.667,
-    "y": 500.037,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 481.286,
-    "y": 503.448,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 493.422,
-    "y": 510.726,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 495.951,
-    "y": 506.064,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 508.087,
-    "y": 506.178,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 511.222,
-    "y": 504.244,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 514.054,
-    "y": 510.726,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 522.448,
-    "y": 511.068,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 523.156,
-    "y": 505.268,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 527.303,
-    "y": 505.95,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 535.899,
-    "y": 505.495,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 538.225,
-    "y": 505.495,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 543.08,
-    "y": 510.499,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 548.44,
-    "y": 506.064,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 562.397,
-    "y": 510.613,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 566.341,
-    "y": 510.613,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 573.522,
-    "y": 510.613,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 577.972,
-    "y": 509.703,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 590.31,
-    "y": 499.241,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 597.086,
-    "y": 502.766,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 591.625,
-    "y": 503.676,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 594.558,
-    "y": 510.272,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 600.424,
-    "y": 513.57,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 601.941,
-    "y": 518.232,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 608.919,
-    "y": 540.181,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 470.465,
-    "y": 475.473,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 460.604,
-    "y": 470.014,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 454.334,
-    "y": 465.408,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 453.07,
-    "y": 462.281,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 468.847,
-    "y": 454.548,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 474.005,
-    "y": 439.764,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 459.643,
-    "y": 427.596,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 473.625,
-    "y": 415.626,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 479.921,
-    "y": 419.464,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 493.119,
-    "y": 427.709,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 486.545,
-    "y": 423.445,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 505.458,
-    "y": 436.693,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 515.369,
-    "y": 443.403,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 516.178,
-    "y": 447.952,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 518.807,
-    "y": 446.019,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 521.538,
-    "y": 453.297,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 525.381,
-    "y": 454.434,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 527.303,
-    "y": 462.167,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 522.651,
-    "y": 464.669,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 526.393,
-    "y": 465.01,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 531.146,
-    "y": 464.669,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 510.615,
-    "y": 464.669,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 509.503,
-    "y": 478.884,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 513.346,
-    "y": 483.774,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 513.043,
-    "y": 479.453,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 498.378,
-    "y": 479.112,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 497.872,
-    "y": 483.888,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 487.354,
-    "y": 480.704,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 521.943,
-    "y": 479.453,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 523.156,
-    "y": 478.429,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 528.112,
-    "y": 477.52,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 526.291,
-    "y": 473.198,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 530.944,
-    "y": 483.661,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 540.754,
-    "y": 483.547,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 541.664,
-    "y": 478.429,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 543.08,
-    "y": 471.492,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 545.811,
-    "y": 483.774,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 563.004,
-    "y": 477.633,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 568.869,
-    "y": 481.045,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 569.476,
-    "y": 476.496,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 575.747,
-    "y": 479.225,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 581.41,
-    "y": 476.951,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 581.41,
-    "y": 472.402,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 584.04,
-    "y": 478.543,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 587.276,
-    "y": 469.9,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 608.11,
-    "y": 461.94,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 622.876,
-    "y": 461.257,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 627.326,
-    "y": 457.391,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 620.448,
-    "y": 455.116,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 638.855,
-    "y": 454.889,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 636.63,
-    "y": 447.611,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 642.698,
-    "y": 447.838,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 643.305,
-    "y": 451.705,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 653.418,
-    "y": 447.838,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 660.296,
-    "y": 452.387,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 665.757,
-    "y": 452.387,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 664.746,
-    "y": 446.246,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 670.611,
-    "y": 453.069,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 711.672,
-    "y": 453.524,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 716.122,
-    "y": 460.575,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 720.775,
-    "y": 453.979,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 729.27,
-    "y": 458.983,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 739.586,
-    "y": 455.116,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 744.036,
-    "y": 455.116,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 661.105,
-    "y": 441.015,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 666.364,
-    "y": 439.878,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 653.014,
-    "y": 439.65,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 648.969,
-    "y": 441.47,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 641.282,
-    "y": 439.878,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 636.023,
-    "y": 440.332,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 627.326,
-    "y": 439.536,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 620.044,
-    "y": 440.332,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 614.987,
-    "y": 440.332,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 614.178,
-    "y": 438.968,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 608.514,
-    "y": 438.74,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 599.716,
-    "y": 439.082,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 602.345,
-    "y": 447.611,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 593.546,
-    "y": 437.944,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 577.87,
-    "y": 438.058,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 569.274,
-    "y": 438.172,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 577.466,
-    "y": 458.642,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 613.773,
-    "y": 495.601,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 609.728,
-    "y": 491.053,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 618.426,
-    "y": 497.876,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 621.257,
-    "y": 506.519,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 624.089,
-    "y": 516.071,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 626.314,
-    "y": 517.891,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 632.989,
-    "y": 519.028,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 626.314,
-    "y": 537.224,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 631.371,
-    "y": 553.145,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 633.495,
-    "y": 559.456,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 643.507,
-    "y": 575.662,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 649.778,
-    "y": 591.356,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 644.468,
-    "y": 593.801,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 645.985,
-    "y": 597.724,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 649.727,
-    "y": 595.45,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 659.031,
-    "y": 623.312,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 654.733,
-    "y": 626.382,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 657.616,
-    "y": 630.817,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 661.712,
-    "y": 643.44,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 641.838,
-    "y": 655.211,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 636.984,
-    "y": 640.029,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 640.22,
-    "y": 636.901,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 635.922,
-    "y": 638.664,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 634.759,
-    "y": 633.433,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 631.978,
-    "y": 616.545,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 625.606,
-    "y": 605.002,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 626.87,
-    "y": 600.681,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 623.533,
-    "y": 591.185,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 621.611,
-    "y": 583.85,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 617.111,
-    "y": 579.926,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 612.661,
-    "y": 568.099,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 616.504,
-    "y": 561.049,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 609.425,
-    "y": 563.835,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 576.379,
-    "y": 487.158,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 580.551,
-    "y": 500.548,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 575.595,
-    "y": 516.015,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 598.3,
-    "y": 575.321,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 600.828,
-    "y": 587.262,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 596.783,
-    "y": 588.285,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 601.839,
-    "y": 592.72,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 605.379,
-    "y": 608.073,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 605.076,
-    "y": 613.645,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 609.526,
-    "y": 626.837,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 613.875,
-    "y": 640.484,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 636.933,
-    "y": 659.703,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 678.197,
-    "y": 645.146,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 686.085,
-    "y": 640.825,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 698.727,
-    "y": 640.029,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 698.019,
-    "y": 640.256,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 701.458,
-    "y": 636.617,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 710.964,
-    "y": 630.703,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 707.829,
-    "y": 620.923,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 702.166,
-    "y": 611.826,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 697.817,
-    "y": 604.32,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 691.85,
-    "y": 599.657,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 679.41,
-    "y": 593.061,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 679.309,
-    "y": 583.509,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 675.567,
-    "y": 581.348,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 673.14,
-    "y": 563.835,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 668.69,
-    "y": 564.062,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 667.072,
-    "y": 560.196,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 666.263,
-    "y": 553.6,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 657.464,
-    "y": 549.506,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 651.8,
-    "y": 557.239,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 657.464,
-    "y": 562.129,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 661.004,
-    "y": 567.36,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 661.712,
-    "y": 574.525,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 660.599,
-    "y": 585.328,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 661.408,
-    "y": 593.061,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 666.971,
-    "y": 599.771,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 671.117,
-    "y": 598.52,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 673.039,
-    "y": 611.598,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 680.725,
-    "y": 613.077,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 677.489,
-    "y": 622.288,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 678.905,
-    "y": 625.472,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 682.242,
-    "y": 628.998,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 681.231,
-    "y": 634.229,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 611.346,
-    "y": 551.098,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 640.473,
-    "y": 556.329,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 647.35,
-    "y": 553.827,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 647.957,
-    "y": 537.451,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 645.732,
-    "y": 515.503,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 637.54,
-    "y": 513.456,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 636.428,
-    "y": 484.798,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 629.449,
-    "y": 481.955,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 647.755,
-    "y": 465.806,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 649.575,
-    "y": 475.131,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 643.507,
-    "y": 481.955,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 649.98,
-    "y": 490.825,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 654.733,
-    "y": 505.382,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 662.318,
-    "y": 520.507,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 662.116,
-    "y": 502.538,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 668.184,
-    "y": 503.903,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 672.027,
-    "y": 506.746,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 675.365,
-    "y": 499.468,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 675.264,
-    "y": 486.959,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 674.96,
-    "y": 478.771,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 674.859,
-    "y": 460.575,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 675.061,
-    "y": 444.881,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 674.252,
-    "y": 416.451,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 675.365,
-    "y": 412.584,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 679.612,
-    "y": 398.71,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 675.567,
-    "y": 389.954,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 672.432,
-    "y": 395.185,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 667.78,
-    "y": 399.165,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 662.925,
-    "y": 398.596,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 658.981,
-    "y": 407.808,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 649.373,
-    "y": 413.267,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 641.788,
-    "y": 419.066,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 636.731,
-    "y": 412.584,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 622.471,
-    "y": 411.561,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 594.153,
-    "y": 414.631,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 582.219,
-    "y": 396.549,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 575.544,
-    "y": 402.804,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 571.094,
-    "y": 410.196,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 588.085,
-    "y": 394.673,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 594.153,
-    "y": 398.881,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 603.458,
-    "y": 400.473,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 614.886,
-    "y": 404.055,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 619.235,
-    "y": 385.973,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 616.807,
-    "y": 375.852,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 609.93,
-    "y": 374.146,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 605.48,
-    "y": 360.727,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 588.085,
-    "y": 348.217,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 590.31,
-    "y": 376.421,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 602.446,
-    "y": 366.64,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 614.583,
-    "y": 361.864,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 621.763,
-    "y": 354.472,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 623.28,
-    "y": 347.421,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 630.056,
-    "y": 346.853,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 628.843,
-    "y": 339.575,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 642.294,
-    "y": 326.497,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 654.025,
-    "y": 316.262,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 658.273,
-    "y": 313.646,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 659.588,
-    "y": 321.038,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 665.15,
-    "y": 312.622,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 670.814,
-    "y": 299.544,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 674.859,
-    "y": 301.478,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 868.331,
-    "y": 1166.449,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 872.983,
-    "y": 1167.7,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 878.647,
-    "y": 1174.068,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 858.42,
-    "y": 1167.472,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 861.15,
-    "y": 1166.108,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 852.453,
-    "y": 1164.288,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 849.924,
-    "y": 1162.582,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 850.531,
-    "y": 1159.512,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 845.474,
-    "y": 1167.586,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 841.631,
-    "y": 1153.485,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 822.618,
-    "y": 1152.802,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 837.788,
-    "y": 1173.841,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 851.846,
-    "y": 1172.362,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 858.015,
-    "y": 1181.688,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 873.691,
-    "y": 1182.939,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 865.297,
-    "y": 1196.017,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 853.565,
-    "y": 1187.374,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 839.71,
-    "y": 1178.617,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 833.439,
-    "y": 1184.872,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 826.259,
-    "y": 1166.335,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 820.292,
-    "y": 1166.449,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 814.729,
-    "y": 1166.449,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 825.348,
-    "y": 1176.456,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 845.474,
-    "y": 1190.217,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 659.79,
-    "y": 1145.751,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 798.345,
-    "y": 1150.869,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 807.245,
-    "y": 1150.3,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 823.73,
-    "y": 1161.104,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 874.551,
-    "y": 1065.862,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 950.2,
-    "y": 1004.565,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 949.34,
-    "y": 1238.094,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 937.912,
-    "y": 1240.596,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 938.923,
-    "y": 1236.047,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 834.046,
-    "y": 1329.697,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 831.872,
-    "y": 1332.199,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 832.731,
-    "y": 1339.307,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 613.672,
-    "y": 1601.095,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 621.763,
-    "y": 1597.57,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 605.278,
-    "y": 1596.774,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 596.58,
-    "y": 1588.017,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 589.198,
-    "y": 1576.986,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 591.827,
-    "y": 1574.37,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 585.86,
-    "y": 1574.257,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 571.398,
-    "y": 1560.838,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 560.273,
-    "y": 1552.877,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 557.441,
-    "y": 1547.532,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 554.104,
-    "y": 1543.779,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 555.823,
-    "y": 1537.07,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 563.408,
-    "y": 1532.179,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 561.588,
-    "y": 1533.544,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 565.835,
-    "y": 1538.321,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 567.251,
-    "y": 1541.618,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 570.993,
-    "y": 1539.913,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 565.127,
-    "y": 1543.893,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 572.713,
-    "y": 1542.642,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 573.016,
-    "y": 1546.622,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 578.073,
-    "y": 1548.328,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 578.578,
-    "y": 1552.536,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 581.612,
-    "y": 1555.947,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 584.849,
-    "y": 1556.402,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 588.186,
-    "y": 1559.359,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 586.164,
-    "y": 1561.292,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 591.827,
-    "y": 1564.363,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 592.94,
-    "y": 1568.457,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 595.063,
-    "y": 1570.731,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 601.637,
-    "y": 1575.053,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 604.671,
-    "y": 1578.692,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 604.166,
-    "y": 1581.194,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 607.705,
-    "y": 1581.762,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 614.178,
-    "y": 1592.566,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 609.526,
-    "y": 1587.903,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 623.988,
-    "y": 1573.916,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 612.964,
-    "y": 1571.072,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 607.402,
-    "y": 1565.045,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 602.547,
-    "y": 1558.904,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 602.042,
-    "y": 1549.238,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 596.176,
-    "y": 1550.602,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 593.445,
-    "y": 1540.368,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 587.579,
-    "y": 1540.368,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 586.265,
-    "y": 1532.066,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 579.286,
-    "y": 1531.27,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 577.668,
-    "y": 1532.634,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 573.117,
-    "y": 1534.681,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 577.466,
-    "y": 1529.336,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 579.489,
-    "y": 1524.219,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 576.05,
-    "y": 1520.694,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 568.364,
-    "y": 1519.329,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 565.229,
-    "y": 1515.576,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 556.025,
-    "y": 1512.164,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 553.295,
-    "y": 1504.772,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 562.7,
-    "y": 1505.341,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 531.045,
-    "y": 1639.533,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 536.203,
-    "y": 1644.31,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 540.855,
-    "y": 1655.113,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 537.72,
-    "y": 1664.893,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 538.124,
-    "y": 1708.904,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 718.448,
-    "y": 1680.928,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 672.836,
-    "y": 1687.183,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 669.499,
-    "y": 1716.637,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 641.889,
-    "y": 1740.86,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 661.914,
-    "y": 1760.193,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 621.864,
-    "y": 1795.788,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 605.48,
-    "y": 1786.917,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 575.039,
-    "y": 1767.13,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 560.172,
-    "y": 1767.016,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 554.71,
-    "y": 1743.362,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 557.138,
-    "y": 1730.625,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 533.27,
-    "y": 1736.311,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 538.731,
-    "y": 1749.048,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 568.465,
-    "y": 1722.664,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 565.431,
-    "y": 1695.143,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 565.229,
-    "y": 1683.089,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 570.943,
-    "y": 1669.556,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 560.475,
-    "y": 1685.477,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 559.565,
-    "y": 1701.853,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 512.031,
-    "y": 1709.472,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 354.185,
-    "y": 1707.667,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 196.489,
-    "y": 1724.484,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 195.073,
-    "y": 1583.696,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 539.034,
-    "y": 1652.953,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 534.989,
-    "y": 1651.36,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 546.923,
-    "y": 1669.215,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 252.013,
-    "y": 1592.225,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 194.366,
-    "y": 1562.43,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 224.099,
-    "y": 1569.708,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 192.545,
-    "y": 1545.258,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 174.341,
-    "y": 1533.43,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 206.603,
-    "y": 1537.638,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 220.661,
-    "y": 1537.979,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 214.593,
-    "y": 1526.38,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 184.151,
-    "y": 1522.513,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 133.482,
-    "y": 1501.816,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 724.719,
-    "y": 609.21,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 717.134,
-    "y": 595.336,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 724.011,
-    "y": 594.881,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 727.045,
-    "y": 587.83,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 722.089,
-    "y": 588.058,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 736.046,
-    "y": 586.352,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 733.113,
-    "y": 582.258,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 742.519,
-    "y": 576.344,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 743.935,
-    "y": 568.952,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 772.354,
-    "y": 562.47,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 773.365,
-    "y": 552.235,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 768.308,
-    "y": 550.416,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 778.826,
-    "y": 544.047,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 779.433,
-    "y": 536.087,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 778.219,
-    "y": 530.742,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 780.04,
-    "y": 522.781,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 786.209,
-    "y": 524.942,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 793.693,
-    "y": 519.142,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 776.905,
-    "y": 520.848,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 779.635,
-    "y": 511.977,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 740.395,
-    "y": 510.158,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 744.744,
-    "y": 519.369,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 742.62,
-    "y": 526.989,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 737.462,
-    "y": 519.028,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 727.247,
-    "y": 525.283,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 735.641,
-    "y": 531.083,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 744.036,
-    "y": 537.451,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 752.531,
-    "y": 543.251,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 755.161,
-    "y": 537.679,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 751.52,
-    "y": 536.087,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 754.453,
-    "y": 531.879,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 769.623,
-    "y": 531.31,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 765.577,
-    "y": 534.153,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 768.51,
-    "y": 525.738,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 767.398,
-    "y": 542.569,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 769.421,
-    "y": 513.911,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 771.342,
-    "y": 500.264,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 772.252,
-    "y": 412.698,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 768.814,
-    "y": 413.039,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 767.398,
-    "y": 412.357,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 767.196,
-    "y": 407.694,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 767.196,
-    "y": 402.008,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 771.14,
-    "y": 401.894,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 768.915,
-    "y": 397.687,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 772.354,
-    "y": 399.165,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 771.241,
-    "y": 390.067,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 766.184,
-    "y": 389.954,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 761.431,
-    "y": 386.883,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 761.229,
-    "y": 394.389,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 761.431,
-    "y": 380.287,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 757.082,
-    "y": 386.997,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 747.778,
-    "y": 389.954,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 739.889,
-    "y": 394.502,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 734.529,
-    "y": 390.067,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 781.152,
-    "y": 372.781,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 786.411,
-    "y": 361.068,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 782.669,
-    "y": 362.774,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 777.107,
-    "y": 358.68,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 771.14,
-    "y": 355.154,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 766.083,
-    "y": 352.653,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 770.331,
-    "y": 334.116,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 753.947,
-    "y": 297.27,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 749.295,
-    "y": 293.858,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 749.901,
-    "y": 287.49,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 751.722,
-    "y": 269.749,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 747.879,
-    "y": 260.651,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 746.463,
-    "y": 246.095,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 745.856,
-    "y": 239.044,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 734.731,
-    "y": 235.86,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 213.379,
-    "y": 674.032,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 186.174,
-    "y": 744.653,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 177.88,
-    "y": 759.892,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 179.499,
-    "y": 768.08,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 363.363,
-    "y": 546.094,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 372.869,
-    "y": 553.145,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 324.931,
-    "y": 563.607,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 325.538,
-    "y": 556.102,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 383.59,
-    "y": 448.52,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 422.426,
-    "y": 493.1,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 413.323,
-    "y": 473.084,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 452.463,
-    "y": 380.287,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 457.924,
-    "y": 368.801,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 467.936,
-    "y": 404.737,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 430.112,
-    "y": 505.609,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 428.898,
-    "y": 524.032,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 419.998,
-    "y": 520.848,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 412.919,
-    "y": 515.617,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 421.01,
-    "y": 533.812,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 418.178,
-    "y": 540.635,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 416.155,
-    "y": 543.82,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 412.919,
-    "y": 545.867,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 424.246,
-    "y": 565.199,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 425.662,
-    "y": 577.481,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 429.606,
-    "y": 570.317,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 429.303,
-    "y": 564.858,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 438.809,
-    "y": 545.298,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 462.172,
-    "y": 545.753,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 467.127,
-    "y": 542.91,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 467.936,
-    "y": 553.145,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 632.281,
-    "y": 109.06,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 632.18,
-    "y": 114.518,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 632.18,
-    "y": 119.295,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 632.079,
-    "y": 150.568,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 633.697,
-    "y": 170.924,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 633.899,
-    "y": 179.909,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 633.899,
-    "y": 186.163,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 692.457,
-    "y": 175.132,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 690.839,
-    "y": 188.779,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 690.206,
-    "y": 187.898,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 694.656,
-    "y": 186.817,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 693.873,
-    "y": 185.339,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 719.814,
-    "y": 164.727,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 711.773,
-    "y": 129.018,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 726.185,
-    "y": 128.392,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 709.953,
-    "y": 226.648,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 731.394,
-    "y": 242.456,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 729.573,
-    "y": 255.534,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 729.877,
-    "y": 262.585,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 733.922,
-    "y": 273.729,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 731.394,
-    "y": 281.576,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 735.035,
-    "y": 290.447,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 569.678,
-    "y": 576.231,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 558.351,
-    "y": 573.501,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 552.688,
-    "y": 574.411,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 547.328,
-    "y": 570.544,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 548.946,
-    "y": 567.36,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 538.731,
-    "y": 562.243,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 533.169,
-    "y": 564.29,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 526.393,
-    "y": 558.831,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 527.91,
-    "y": 553.259,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 522.044,
-    "y": 557.353,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 527.101,
-    "y": 548.369,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 523.055,
-    "y": 543.024,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 539.742,
-    "y": 554.282,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 536.81,
-    "y": 557.011,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 556.531,
-    "y": 560.423,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 563.105,
-    "y": 554.964,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 506.368,
-    "y": 555.704,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 499.895,
-    "y": 558.604,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 495.749,
-    "y": 566.109,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 481.994,
-    "y": 569.18,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 485.534,
-    "y": 576.458,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 463.082,
-    "y": 579.642,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 460.048,
-    "y": 587.034,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 439.214,
-    "y": 599.544,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 436.483,
-    "y": 595.563,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 410.896,
-    "y": 585.897,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 429.05,
-    "y": 553.429,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 441.692,
-    "y": 555.419,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 443.259,
-    "y": 561.447,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 461.363,
-    "y": 563.607,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 461.009,
-    "y": 574.468,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 510.615,
-    "y": 588.626,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 538.225,
-    "y": 609.665,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 555.014,
-    "y": 605.002,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 554.71,
-    "y": 609.21,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 558.351,
-    "y": 609.437,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 557.947,
-    "y": 604.206,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 573.016,
-    "y": 603.296,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 571.398,
-    "y": 599.202,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 574.938,
-    "y": 607.049,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 578.882,
-    "y": 596.132,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 571.398,
-    "y": 589.309,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 569.881,
-    "y": 563.948,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 569.072,
-    "y": 558.49,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 547.833,
-    "y": 589.877,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 538.731,
-    "y": 584.532,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 526.19,
-    "y": 582.371,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 518.909,
-    "y": 575.889,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 516.987,
-    "y": 594.654,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 488.669,
-    "y": 599.316,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 482.095,
-    "y": 610.233,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 493.625,
-    "y": 625.017,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 502.727,
-    "y": 622.288,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 496.355,
-    "y": 611.484,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 509.503,
-    "y": 620.923,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 521.841,
-    "y": 624.904,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 535.697,
-    "y": 625.017,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 539.338,
-    "y": 627.178,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 555.823,
-    "y": 624.79,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 567.858,
-    "y": 624.562,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 577.567,
-    "y": 624.335,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 581.309,
-    "y": 626.382,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 510.413,
-    "y": 610.802,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 472.791,
-    "y": 622.629,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 468.442,
-    "y": 635.707,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 458.126,
-    "y": 648.444,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 466.419,
-    "y": 649.24,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 467.127,
-    "y": 657.087,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 442.45,
-    "y": 678.467,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 442.349,
-    "y": 677.671,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 421.515,
-    "y": 679.831,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 421.92,
-    "y": 679.263,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 444.574,
-    "y": 703.941,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 443.967,
-    "y": 703.599,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 452.311,
-    "y": 713.436,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 486.04,
-    "y": 723.842,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 505.356,
-    "y": 729.301,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 526.898,
-    "y": 738.626,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 542.372,
-    "y": 715.881,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 541.765,
-    "y": 715.54,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 530.741,
-    "y": 709.968,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 531.348,
-    "y": 709.74,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 530.236,
-    "y": 683.812,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 534.585,
-    "y": 681.992,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 555.52,
-    "y": 686.541,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 550.463,
-    "y": 666.64,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 546.013,
-    "y": 663.455,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 573.016,
-    "y": 672.667,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 578.882,
-    "y": 667.549,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 559.868,
-    "y": 669.596,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 620.6,
-    "y": 693.251,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 621.106,
-    "y": 693.308,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 597.339,
-    "y": 682.39,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 628.084,
-    "y": 681.026,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 644.417,
-    "y": 691.715,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 644.417,
-    "y": 690.862,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 652.407,
-    "y": 693.706,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 659.992,
-    "y": 673.747,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 660.498,
-    "y": 673.69,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 654.48,
-    "y": 667.095,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 637.186,
-    "y": 672.439,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 517.897,
-    "y": 646.625,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 516.886,
-    "y": 651.173,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 498.378,
-    "y": 653.107,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 494.838,
-    "y": 663.342,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 493.119,
-    "y": 670.961,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 489.377,
-    "y": 661.408,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 488.366,
-    "y": 655.04,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 485.635,
-    "y": 653.789,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 477.848,
-    "y": 661.522,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 475.42,
-    "y": 666.071,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 487.354,
-    "y": 672.212,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 494.333,
-    "y": 680.286,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 485.534,
-    "y": 694.274,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 476.634,
-    "y": 644.236,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 477.039,
-    "y": 635.821,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 456.71,
-    "y": 654.016,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 451.552,
-    "y": 658.224,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 417.369,
-    "y": 644.805,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 422.021,
-    "y": 637.982,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 416.155,
-    "y": 623.88,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 494.029,
-    "y": 637.982,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 550.867,
-    "y": 641.621,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 594.355,
-    "y": 641.393,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 711.672,
-    "y": 484.002,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 714.909,
-    "y": 496.284,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 715.111,
-    "y": 500.605,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 711.268,
-    "y": 505.154,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 699.536,
-    "y": 551.325,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 694.277,
-    "y": 546.549,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 713.493,
-    "y": 553.145,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 731.899,
-    "y": 555.874,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 738.17,
-    "y": 559.741,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 734.327,
-    "y": 568.839,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 731.697,
-    "y": 573.16,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 719.156,
-    "y": 575.889,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 721.381,
-    "y": 579.983,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 711.875,
-    "y": 579.983,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 711.47,
-    "y": 492.417,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 740.294,
-    "y": 449.544,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 731.495,
-    "y": 445.336,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 720.37,
-    "y": 445.45,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 716.628,
-    "y": 447.611,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 739.181,
-    "y": 463.418,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 736.147,
-    "y": 473.653,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 734.731,
-    "y": 476.837,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 732.304,
-    "y": 478.202,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 714.201,
-    "y": 436.466,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 714.504,
-    "y": 423.388,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 718.246,
-    "y": 422.251,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 714.403,
-    "y": 411.447,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 718.044,
-    "y": 409.4,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 714.302,
-    "y": 398.142,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 725.123,
-    "y": 369.825,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 718.145,
-    "y": 350.378,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 722.797,
-    "y": 341.849,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 728.663,
-    "y": 345.488,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 711.672,
-    "y": 343.214,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 712.481,
-    "y": 321.152,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 708.436,
-    "y": 299.544,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 708.841,
-    "y": 294.995,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 707.829,
-    "y": 274.525,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 711.875,
-    "y": 244.503,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 713.695,
-    "y": 264.063,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 720.977,
-    "y": 269.522,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 715.516,
-    "y": 283.396,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 719.763,
-    "y": 294.995,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 717.74,
-    "y": 298.635,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 726.64,
-    "y": 297.952,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 735.338,
-    "y": 297.952,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 718.752,
-    "y": 312.509,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 720.977,
-    "y": 327.747,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 722.19,
-    "y": 335.253,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 734.124,
-    "y": 341.167,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 748.486,
-    "y": 345.716,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 733.315,
-    "y": 305.685,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 737.563,
-    "y": 315.92,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 739.586,
-    "y": 323.426,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 735.54,
-    "y": 335.935,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 744.036,
-    "y": 325.246,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 749.092,
-    "y": 323.653,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 754.351,
-    "y": 336.163,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 681.736,
-    "y": 302.501,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 645.328,
-    "y": 294.541,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 632.585,
-    "y": 304.093,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 557.643,
-    "y": 781.499,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 558.351,
-    "y": 781.727,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 557.138,
-    "y": 782.181,
-    "type": "hydrant-red"
-  },
-  {
-    "x": 951.363,
-    "y": 659.361,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 624.696,
-    "y": 312.736,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 637.035,
-    "y": 391.318,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 651.699,
-    "y": 400.53,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 644.822,
-    "y": 390.295,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 650.587,
-    "y": 384.722,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 656.25,
-    "y": 379.377,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 661.307,
-    "y": 369.256,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 666.364,
-    "y": 364.139,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 670.207,
-    "y": 365.844,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 675.466,
-    "y": 362.205,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 672.432,
-    "y": 358.111,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 662.622,
-    "y": 353.221,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 662.925,
-    "y": 344.01,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 659.284,
-    "y": 341.053,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 656.756,
-    "y": 349.582,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 647.553,
-    "y": 353.676,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 642.496,
-    "y": 347.99,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 639.967,
-    "y": 369.37,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 628.843,
-    "y": 369.029,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 621.763,
-    "y": 380.742,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 610.234,
-    "y": 385.86,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 606.087,
-    "y": 353.562,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 613.875,
-    "y": 352.539,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 626.314,
-    "y": 360.613,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 623.28,
-    "y": 363.229,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 641.08,
-    "y": 374.942,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 653.418,
-    "y": 376.421,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 660.7,
-    "y": 388.02,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 682.95,
-    "y": 372.895,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 677.994,
-    "y": 377.671,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 674.859,
-    "y": 373.464,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 650.182,
-    "y": 337.073,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 650.789,
-    "y": 330.136,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 646.238,
-    "y": 323.54,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 635.619,
-    "y": 319.559,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 626.112,
-    "y": 329.681,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 612.762,
-    "y": 329.112,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 599.311,
-    "y": 336.845,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 944.486,
-    "y": 1237.639,
-    "type": "firestation",
-    "nom": "Station 70"
-  },
-  {
-    "x": 768.915,
-    "y": 387.338,
-    "type": "firestation",
-    "nom": "Station 71"
-  },
-  {
-    "x": 554.609,
-    "y": 1670.011,
-    "type": "firestation",
-    "nom": "Station 72"
-  },
-  {
-    "x": 457.621,
-    "y": 184.003,
-    "type": "firestation",
-    "nom": "Station 73"
-  },
-  {
-    "x": 303.794,
-    "y": 1105.721,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 331.657,
-    "y": 1030.906,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 325.791,
-    "y": 1031.176,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 370.847,
-    "y": 1082.863,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 364.981,
-    "y": 1086.275,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 360.126,
-    "y": 1089.459,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 378.533,
-    "y": 1093.098,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 367.003,
-    "y": 1100.149,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 288.118,
-    "y": 1096.794,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 291.455,
-    "y": 1102.253,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 290.798,
-    "y": 1102.48,
-    "type": "hydrant-yellow"
-  },
-  {
-    "x": 339.292,
-    "y": 1111.748,
-    "type": "hydrant-red"
-  }
-]
+{
+  "markers": [
+    {
+      "x": 806.974,
+      "y": 260.413,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 795.113,
+      "y": 250.572,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 812.948,
+      "y": 244.6,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 854.645,
+      "y": 291.031,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 860.87,
+      "y": 298.097,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 862.945,
+      "y": 307.012,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 879.77,
+      "y": 303.592,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 889.361,
+      "y": 304.041,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 902.654,
+      "y": 296.976,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 918.133,
+      "y": 300.902,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 933.332,
+      "y": 306.398,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 939.22,
+      "y": 312.678,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 910.335,
+      "y": 339.985,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 896.762,
+      "y": 352.545,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 885.208,
+      "y": 348.283,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 878.814,
+      "y": 364.657,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 867.821,
+      "y": 359.049,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 863.895,
+      "y": 355.965,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 852.566,
+      "y": 353.665,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 849.369,
+      "y": 367.179,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 858.006,
+      "y": 361.011,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 893.956,
+      "y": 383.61,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 900.573,
+      "y": 396.507,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 897.432,
+      "y": 405.816,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 895.525,
+      "y": 407.161,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 888.009,
+      "y": 407.049,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 894.964,
+      "y": 411.984,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 876.007,
+      "y": 412.656,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 859.852,
+      "y": 445.739,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 852.786,
+      "y": 441.365,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 837.867,
+      "y": 442.934,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 833.717,
+      "y": 440.916,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 836.916,
+      "y": 405.365,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 836.691,
+      "y": 405.029,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 829.4,
+      "y": 409.514,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 829.064,
+      "y": 408.953,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 827.603,
+      "y": 448.71,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 828.668,
+      "y": 455.158,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 822.331,
+      "y": 458.242,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 822.33,
+      "y": 466.149,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 818.179,
+      "y": 473.55,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 810.888,
+      "y": 486.335,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 795.071,
+      "y": 496.54,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 780.657,
+      "y": 504.277,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 778.413,
+      "y": 504.053,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 783.685,
+      "y": 508.315,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 776.394,
+      "y": 508.875,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 764.503,
+      "y": 529.734,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 756.65,
+      "y": 538.93,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 740.272,
+      "y": 560.238,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 730.737,
+      "y": 563.153,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 715.929,
+      "y": 589.171,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 700.337,
+      "y": 601.058,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 682.276,
+      "y": 623.824,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 671.843,
+      "y": 645.356,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 688.107,
+      "y": 662.851,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 703.138,
+      "y": 662.179,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 715.701,
+      "y": 656.908,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 700.335,
+      "y": 629.656,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 720.414,
+      "y": 629.881,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 725.013,
+      "y": 628.311,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 716.937,
+      "y": 617.769,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 734.212,
+      "y": 602.069,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 727.146,
+      "y": 596.125,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 728.492,
+      "y": 592.199,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 709.2,
+      "y": 573.47,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 712.565,
+      "y": 573.47,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 705.499,
+      "y": 568.535,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 701.237,
+      "y": 558.891,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 696.638,
+      "y": 557.096,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 693.946,
+      "y": 553.619,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 717.95,
+      "y": 555.302,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 733.093,
+      "y": 569.434,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 705.724,
+      "y": 550.031,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 682.505,
+      "y": 552.049,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 701.575,
+      "y": 532.985,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 713.017,
+      "y": 525.807,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 738.705,
+      "y": 495.304,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 746.557,
+      "y": 495.192,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 751.157,
+      "y": 489.473,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 762.373,
+      "y": 491.38,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 755.532,
+      "y": 469.511,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 757.439,
+      "y": 465.025,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 760.693,
+      "y": 455.156,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 757.889,
+      "y": 447.193,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 761.255,
+      "y": 433.848,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 767.089,
+      "y": 420.39,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 770.23,
+      "y": 415.793,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 779.541,
+      "y": 401.101,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 781.896,
+      "y": 396.279,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 786.721,
+      "y": 379.569,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 782.795,
+      "y": 384.167,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 777.41,
+      "y": 393.139,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 768.997,
+      "y": 398.073,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 764.509,
+      "y": 410.858,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 756.769,
+      "y": 416.016,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 760.359,
+      "y": 416.689,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 752.057,
+      "y": 430.147,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 747.234,
+      "y": 429.474,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 750.15,
+      "y": 443.268,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 745.102,
+      "y": 442.483,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 748.466,
+      "y": 452.913,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 751.719,
+      "y": 460.987,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 741.287,
+      "y": 472.09,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 728.498,
+      "y": 485.547,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 710.663,
+      "y": 494.07,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 785.367,
+      "y": 515.492,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 797.145,
+      "y": 518.857,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 810.605,
+      "y": 526.035,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 813.409,
+      "y": 521.437,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 826.87,
+      "y": 521.55,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 830.347,
+      "y": 519.643,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 833.488,
+      "y": 526.036,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 842.798,
+      "y": 526.373,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 843.583,
+      "y": 520.653,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 848.182,
+      "y": 521.326,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 857.717,
+      "y": 520.878,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 860.297,
+      "y": 520.878,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 865.681,
+      "y": 525.813,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 871.626,
+      "y": 521.439,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 887.105,
+      "y": 525.925,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 891.48,
+      "y": 525.926,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 899.444,
+      "y": 525.926,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 904.38,
+      "y": 525.029,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 918.065,
+      "y": 514.712,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 925.58,
+      "y": 518.188,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 919.523,
+      "y": 519.085,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 922.775,
+      "y": 525.59,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 929.281,
+      "y": 528.843,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 930.963,
+      "y": 533.441,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 938.702,
+      "y": 555.085,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 785.144,
+      "y": 491.268,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 774.208,
+      "y": 485.885,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 767.253,
+      "y": 481.343,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 765.852,
+      "y": 478.259,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 783.351,
+      "y": 470.633,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 789.072,
+      "y": 456.054,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 773.145,
+      "y": 444.054,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 788.653,
+      "y": 432.251,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 795.635,
+      "y": 436.036,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 810.273,
+      "y": 444.167,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 802.982,
+      "y": 439.961,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 823.957,
+      "y": 453.027,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 834.95,
+      "y": 459.644,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 835.847,
+      "y": 464.13,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 838.763,
+      "y": 462.224,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 841.791,
+      "y": 469.401,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 846.054,
+      "y": 470.523,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 848.185,
+      "y": 478.149,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 843.025,
+      "y": 480.616,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 847.175,
+      "y": 480.953,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 852.447,
+      "y": 480.617,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 829.676,
+      "y": 480.616,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 828.442,
+      "y": 494.634,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 832.704,
+      "y": 499.457,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 832.368,
+      "y": 495.195,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 816.103,
+      "y": 494.858,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 815.542,
+      "y": 499.568,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 803.876,
+      "y": 496.428,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 842.239,
+      "y": 495.195,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 843.585,
+      "y": 494.186,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 849.081,
+      "y": 493.289,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 847.062,
+      "y": 489.027,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 852.222,
+      "y": 499.345,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 863.102,
+      "y": 499.233,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 864.112,
+      "y": 494.187,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 865.683,
+      "y": 487.346,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 868.711,
+      "y": 499.458,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 887.78,
+      "y": 493.403,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 894.286,
+      "y": 496.767,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 894.959,
+      "y": 492.281,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 901.913,
+      "y": 494.973,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 908.195,
+      "y": 492.73,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 908.195,
+      "y": 488.244,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 911.111,
+      "y": 494.301,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 914.701,
+      "y": 485.777,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 937.809,
+      "y": 477.928,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 954.186,
+      "y": 477.256,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 959.122,
+      "y": 473.443,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 951.494,
+      "y": 471.199,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 971.909,
+      "y": 470.976,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 969.442,
+      "y": 463.798,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 976.172,
+      "y": 464.023,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 976.845,
+      "y": 467.836,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 988.062,
+      "y": 464.023,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 995.69,
+      "y": 468.509,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1001.747,
+      "y": 468.51,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1000.625,
+      "y": 462.454,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1007.131,
+      "y": 469.183,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1052.672,
+      "y": 469.633,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1057.607,
+      "y": 476.586,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1062.767,
+      "y": 470.082,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1072.19,
+      "y": 475.016,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1083.631,
+      "y": 471.204,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1088.567,
+      "y": 471.204,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 996.588,
+      "y": 457.295,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1002.42,
+      "y": 456.173,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 987.614,
+      "y": 455.949,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 983.127,
+      "y": 457.743,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 974.602,
+      "y": 456.172,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 968.769,
+      "y": 456.621,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 959.123,
+      "y": 455.835,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 951.046,
+      "y": 456.62,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 945.438,
+      "y": 456.62,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 944.541,
+      "y": 455.274,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 938.259,
+      "y": 455.05,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 928.5,
+      "y": 455.386,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 931.416,
+      "y": 463.797,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 921.658,
+      "y": 454.264,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 904.271,
+      "y": 454.376,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 894.737,
+      "y": 454.488,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 903.822,
+      "y": 474.674,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 944.089,
+      "y": 511.124,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 939.602,
+      "y": 506.638,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 949.248,
+      "y": 513.367,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 952.389,
+      "y": 521.89,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 955.529,
+      "y": 531.311,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 957.997,
+      "y": 533.105,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 965.4,
+      "y": 534.227,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 957.996,
+      "y": 552.17,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 963.603,
+      "y": 567.871,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 965.958,
+      "y": 574.095,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 977.062,
+      "y": 590.077,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 984.016,
+      "y": 605.553,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 978.127,
+      "y": 607.964,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 979.809,
+      "y": 611.834,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 983.96,
+      "y": 609.591,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 994.278,
+      "y": 637.067,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 989.511,
+      "y": 640.095,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 992.707,
+      "y": 644.469,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 997.249,
+      "y": 656.917,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 975.207,
+      "y": 668.524,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 969.824,
+      "y": 653.552,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 973.414,
+      "y": 650.468,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 968.646,
+      "y": 652.206,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 967.356,
+      "y": 647.048,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 964.273,
+      "y": 630.393,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 957.207,
+      "y": 619.01,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 958.609,
+      "y": 614.749,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 954.908,
+      "y": 605.384,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 952.777,
+      "y": 598.151,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 947.786,
+      "y": 594.281,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 942.851,
+      "y": 582.618,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 947.114,
+      "y": 575.665,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 939.262,
+      "y": 578.412,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 902.614,
+      "y": 502.795,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 907.24,
+      "y": 516.001,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 901.743,
+      "y": 531.253,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 926.922,
+      "y": 589.739,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 929.726,
+      "y": 601.514,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 925.239,
+      "y": 602.523,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 930.847,
+      "y": 606.897,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 934.772,
+      "y": 622.038,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 934.436,
+      "y": 627.533,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 939.37,
+      "y": 640.542,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 944.193,
+      "y": 654,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 969.767,
+      "y": 672.954,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1015.533,
+      "y": 658.6,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1024.283,
+      "y": 654.339,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1038.304,
+      "y": 653.554,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1037.519,
+      "y": 653.779,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1041.333,
+      "y": 650.19,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1051.877,
+      "y": 644.359,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1048.4,
+      "y": 634.714,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1042.119,
+      "y": 625.742,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1037.296,
+      "y": 618.34,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1030.679,
+      "y": 613.742,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1016.882,
+      "y": 607.237,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1016.77,
+      "y": 597.816,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1012.62,
+      "y": 595.685,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1009.929,
+      "y": 578.415,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1004.994,
+      "y": 578.639,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1003.199,
+      "y": 574.826,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1002.302,
+      "y": 568.321,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 992.543,
+      "y": 564.283,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 986.261,
+      "y": 571.909,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 992.543,
+      "y": 576.732,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 996.468,
+      "y": 581.891,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 997.253,
+      "y": 588.956,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 996.019,
+      "y": 599.61,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 996.916,
+      "y": 607.236,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1003.085,
+      "y": 613.853,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1007.684,
+      "y": 612.62,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1009.814,
+      "y": 625.517,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1018.339,
+      "y": 626.975,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1014.749,
+      "y": 636.059,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1016.319,
+      "y": 639.199,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1020.021,
+      "y": 642.675,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1018.899,
+      "y": 647.834,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 941.394,
+      "y": 565.852,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 973.698,
+      "y": 571.012,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 981.326,
+      "y": 568.545,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 982,
+      "y": 552.395,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 979.533,
+      "y": 530.751,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 970.448,
+      "y": 528.732,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 969.216,
+      "y": 500.471,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 961.476,
+      "y": 497.667,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 981.78,
+      "y": 481.742,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 983.798,
+      "y": 490.939,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 977.068,
+      "y": 497.667,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 984.246,
+      "y": 506.415,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 989.517,
+      "y": 520.77,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 997.929,
+      "y": 535.686,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 997.706,
+      "y": 517.967,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1004.436,
+      "y": 519.313,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1008.698,
+      "y": 522.116,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1012.4,
+      "y": 514.939,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1012.289,
+      "y": 502.603,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1011.953,
+      "y": 494.528,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1011.842,
+      "y": 476.585,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1012.067,
+      "y": 461.108,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1011.171,
+      "y": 433.071,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1012.405,
+      "y": 429.258,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1017.117,
+      "y": 415.576,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1012.631,
+      "y": 406.941,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1009.153,
+      "y": 412.1,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1003.993,
+      "y": 416.025,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 998.609,
+      "y": 415.464,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 994.234,
+      "y": 424.547,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 983.577,
+      "y": 429.93,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 975.164,
+      "y": 435.649,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 969.556,
+      "y": 429.257,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 953.74,
+      "y": 428.247,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 922.332,
+      "y": 431.274,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 909.097,
+      "y": 413.442,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 901.693,
+      "y": 419.61,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 896.757,
+      "y": 426.899,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 915.603,
+      "y": 411.592,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 922.333,
+      "y": 415.741,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 932.653,
+      "y": 417.312,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 945.328,
+      "y": 420.845,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 950.152,
+      "y": 403.014,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 947.46,
+      "y": 393.032,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 939.833,
+      "y": 391.35,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 934.898,
+      "y": 378.116,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 915.606,
+      "y": 365.779,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 918.072,
+      "y": 393.592,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 931.533,
+      "y": 383.948,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 944.993,
+      "y": 379.238,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 952.958,
+      "y": 371.949,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 954.641,
+      "y": 364.996,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 962.156,
+      "y": 364.435,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 960.811,
+      "y": 357.258,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 975.73,
+      "y": 344.361,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 988.742,
+      "y": 334.268,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 993.454,
+      "y": 331.689,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 994.912,
+      "y": 338.979,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1001.081,
+      "y": 330.68,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1007.364,
+      "y": 317.783,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1011.85,
+      "y": 319.69,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1226.385,
+      "y": 1172.692,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1231.545,
+      "y": 1173.926,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1237.826,
+      "y": 1180.206,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1215.392,
+      "y": 1173.701,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1218.421,
+      "y": 1172.355,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1208.774,
+      "y": 1170.561,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1205.97,
+      "y": 1168.879,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1206.643,
+      "y": 1165.851,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1201.034,
+      "y": 1173.813,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1196.773,
+      "y": 1159.906,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1175.685,
+      "y": 1159.233,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1192.509,
+      "y": 1179.981,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1208.101,
+      "y": 1178.523,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1214.943,
+      "y": 1187.72,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1232.329,
+      "y": 1188.954,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1223.018,
+      "y": 1201.85,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1210.007,
+      "y": 1193.327,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1194.64,
+      "y": 1184.691,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1187.685,
+      "y": 1190.859,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1179.722,
+      "y": 1172.579,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1173.104,
+      "y": 1172.69,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1166.935,
+      "y": 1172.69,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1178.712,
+      "y": 1182.56,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1201.033,
+      "y": 1196.13,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 995.09,
+      "y": 1152.274,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1148.764,
+      "y": 1157.325,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1158.635,
+      "y": 1156.765,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1176.918,
+      "y": 1167.42,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1233.289,
+      "y": 1073.498,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1317.196,
+      "y": 1013.053,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1316.23,
+      "y": 1243.348,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1303.554,
+      "y": 1245.815,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1304.676,
+      "y": 1241.329,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1188.35,
+      "y": 1333.679,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1185.938,
+      "y": 1336.146,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1186.891,
+      "y": 1343.155,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 943.916,
+      "y": 1601.311,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 952.889,
+      "y": 1597.835,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 934.606,
+      "y": 1597.049,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 924.959,
+      "y": 1588.414,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 916.772,
+      "y": 1577.535,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 919.688,
+      "y": 1574.956,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 913.07,
+      "y": 1574.843,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 897.03,
+      "y": 1561.609,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 884.692,
+      "y": 1553.759,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 881.552,
+      "y": 1548.488,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 877.85,
+      "y": 1544.787,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 879.757,
+      "y": 1538.17,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 888.171,
+      "y": 1533.348,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 886.151,
+      "y": 1534.694,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 890.862,
+      "y": 1539.404,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 892.433,
+      "y": 1542.656,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 896.583,
+      "y": 1540.974,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 890.077,
+      "y": 1544.899,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 898.49,
+      "y": 1543.666,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 898.826,
+      "y": 1547.591,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 904.434,
+      "y": 1549.273,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 904.995,
+      "y": 1553.423,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 908.36,
+      "y": 1556.787,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 911.949,
+      "y": 1557.236,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 915.651,
+      "y": 1560.152,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 913.407,
+      "y": 1562.059,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 919.689,
+      "y": 1565.087,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 920.922,
+      "y": 1569.124,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 923.278,
+      "y": 1571.367,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 930.569,
+      "y": 1575.629,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 933.934,
+      "y": 1579.218,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 933.373,
+      "y": 1581.685,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 937.299,
+      "y": 1582.246,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 944.477,
+      "y": 1592.9,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 939.317,
+      "y": 1588.302,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 955.358,
+      "y": 1574.508,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 943.132,
+      "y": 1571.704,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 936.963,
+      "y": 1565.76,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 931.579,
+      "y": 1559.704,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 931.019,
+      "y": 1550.171,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 924.513,
+      "y": 1551.517,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 921.485,
+      "y": 1541.424,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 914.979,
+      "y": 1541.423,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 913.521,
+      "y": 1533.237,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 905.781,
+      "y": 1532.451,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 903.987,
+      "y": 1533.797,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 898.939,
+      "y": 1535.816,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 903.762,
+      "y": 1530.545,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 906.006,
+      "y": 1525.498,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 902.192,
+      "y": 1522.021,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 893.668,
+      "y": 1520.675,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 890.191,
+      "y": 1516.974,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 879.983,
+      "y": 1513.61,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 876.955,
+      "y": 1506.32,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 887.387,
+      "y": 1506.881,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 852.75,
+      "y": 1633,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 855.75,
+      "y": 1643.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 863,
+      "y": 1651.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 859.672,
+      "y": 1664.223,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 860,
+      "y": 1698.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1051.25,
+      "y": 1673.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1002,
+      "y": 1679.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 999,
+      "y": 1708,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 972.25,
+      "y": 1729.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 991.5,
+      "y": 1748.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 949,
+      "y": 1781.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 931,
+      "y": 1774,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 899.75,
+      "y": 1755.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 883.75,
+      "y": 1755.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 878,
+      "y": 1731.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 879,
+      "y": 1720.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 855.25,
+      "y": 1726.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 860.5,
+      "y": 1738.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 892.25,
+      "y": 1713.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 889.5,
+      "y": 1687.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 890,
+      "y": 1673.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 894.25,
+      "y": 1661.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 883,
+      "y": 1677.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 883.5,
+      "y": 1693,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 831.25,
+      "y": 1699.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 661.5,
+      "y": 1698.25,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 492.75,
+      "y": 1713.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 489.06142604486905,
+      "y": 1578.3751433873615,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 859.75,
+      "y": 1647.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 859.25,
+      "y": 1656.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 869.75,
+      "y": 1661,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 554.5,
+      "y": 1588.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 489.35872782361974,
+      "y": 1561.1316402198222,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 524.5,
+      "y": 1566.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 520,
+      "y": 1537.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 471.5,
+      "y": 1533.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 491.75,
+      "y": 1543.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 508.024,
+      "y": 1539.055,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 512,
+      "y": 1526.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 481.5,
+      "y": 1522.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 426,
+      "y": 1503.75,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1067.134,
+      "y": 623.163,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1058.722,
+      "y": 609.481,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1066.349,
+      "y": 609.033,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1069.715,
+      "y": 602.08,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1064.218,
+      "y": 602.304,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1079.698,
+      "y": 600.622,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1076.445,
+      "y": 596.585,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1086.877,
+      "y": 590.753,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1088.448,
+      "y": 583.464,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1119.968,
+      "y": 577.072,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1121.091,
+      "y": 566.979,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1115.482,
+      "y": 565.185,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1127.148,
+      "y": 558.905,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1127.822,
+      "y": 551.054,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1126.476,
+      "y": 545.783,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1128.496,
+      "y": 537.933,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1135.338,
+      "y": 540.064,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1143.639,
+      "y": 534.345,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1125.018,
+      "y": 536.027,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1128.048,
+      "y": 527.279,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1084.525,
+      "y": 525.483,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1089.348,
+      "y": 534.567,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1086.992,
+      "y": 542.081,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1081.272,
+      "y": 534.231,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1069.942,
+      "y": 540.398,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1079.252,
+      "y": 546.118,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1088.562,
+      "y": 552.399,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1097.984,
+      "y": 558.119,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1100.901,
+      "y": 552.624,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1096.863,
+      "y": 551.053,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1100.116,
+      "y": 546.904,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1116.942,
+      "y": 546.344,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1112.455,
+      "y": 549.147,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1115.708,
+      "y": 540.849,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1114.473,
+      "y": 557.446,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1116.718,
+      "y": 529.185,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1118.85,
+      "y": 515.728,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1119.865,
+      "y": 429.374,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1116.051,
+      "y": 429.71,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1114.48,
+      "y": 429.037,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1114.256,
+      "y": 424.439,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1114.257,
+      "y": 418.832,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1118.631,
+      "y": 418.72,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1116.164,
+      "y": 414.57,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1119.977,
+      "y": 416.028,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1118.744,
+      "y": 407.057,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1113.136,
+      "y": 406.944,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1107.864,
+      "y": 403.916,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1107.639,
+      "y": 411.318,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1107.864,
+      "y": 397.411,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1103.04,
+      "y": 404.028,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1092.721,
+      "y": 406.943,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1083.971,
+      "y": 411.429,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1078.026,
+      "y": 407.055,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1129.738,
+      "y": 390.01,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1135.571,
+      "y": 378.459,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1131.421,
+      "y": 380.141,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1125.252,
+      "y": 376.104,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1118.634,
+      "y": 372.627,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1113.025,
+      "y": 370.16,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1117.738,
+      "y": 351.88,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1099.568,
+      "y": 315.543,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1094.408,
+      "y": 312.179,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1095.082,
+      "y": 305.899,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1097.102,
+      "y": 288.404,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1092.84,
+      "y": 279.432,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1091.27,
+      "y": 265.077,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1090.598,
+      "y": 258.123,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1078.259,
+      "y": 254.983,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 499.996,
+      "y": 687.069,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 469.818,
+      "y": 756.711,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 460.619,
+      "y": 771.739,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 462.413,
+      "y": 779.814,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 666.352,
+      "y": 560.908,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 676.895,
+      "y": 567.862,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 623.726,
+      "y": 578.177,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 624.399,
+      "y": 570.776,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 688.791,
+      "y": 464.686,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 731.862,
+      "y": 508.65,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 721.768,
+      "y": 488.911,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 765.183,
+      "y": 397.4,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 771.241,
+      "y": 386.073,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 782.344,
+      "y": 421.512,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 740.386,
+      "y": 520.986,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 739.039,
+      "y": 539.154,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 729.169,
+      "y": 536.013,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 721.317,
+      "y": 530.854,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 730.289,
+      "y": 548.798,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 727.148,
+      "y": 555.527,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 724.905,
+      "y": 558.667,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 721.315,
+      "y": 560.686,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 733.877,
+      "y": 579.751,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 735.447,
+      "y": 591.863,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 739.822,
+      "y": 584.798,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 739.486,
+      "y": 579.415,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 750.031,
+      "y": 560.126,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 775.942,
+      "y": 560.575,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 781.439,
+      "y": 557.772,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 782.336,
+      "y": 567.865,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 964.637,
+      "y": 129.935,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 964.525,
+      "y": 135.318,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 964.525,
+      "y": 140.028,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 964.411,
+      "y": 170.868,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 966.204,
+      "y": 190.943,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 966.428,
+      "y": 199.803,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 966.428,
+      "y": 205.971,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1031.375,
+      "y": 195.095,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1029.58,
+      "y": 208.552,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1028.879,
+      "y": 207.683,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1033.814,
+      "y": 206.618,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1032.945,
+      "y": 205.16,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1061.718,
+      "y": 184.834,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1052.802,
+      "y": 149.619,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1068.787,
+      "y": 149.003,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1050.778,
+      "y": 245.898,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1074.557,
+      "y": 261.487,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1072.537,
+      "y": 274.384,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1072.873,
+      "y": 281.337,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1077.36,
+      "y": 292.328,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1074.555,
+      "y": 300.066,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1078.593,
+      "y": 308.814,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 895.178,
+      "y": 590.635,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 882.615,
+      "y": 587.943,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 876.333,
+      "y": 588.84,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 870.389,
+      "y": 585.027,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 872.183,
+      "y": 581.887,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 860.854,
+      "y": 576.84,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 854.685,
+      "y": 578.858,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 847.17,
+      "y": 573.475,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 848.853,
+      "y": 567.979,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 842.347,
+      "y": 572.017,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 847.956,
+      "y": 563.157,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 843.469,
+      "y": 557.886,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 861.977,
+      "y": 568.989,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 858.724,
+      "y": 571.681,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 880.597,
+      "y": 575.046,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 887.888,
+      "y": 569.663,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 824.96,
+      "y": 570.39,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 817.781,
+      "y": 573.249,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 813.182,
+      "y": 580.651,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 797.926,
+      "y": 583.678,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 801.852,
+      "y": 590.856,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 776.95,
+      "y": 593.995,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 773.584,
+      "y": 601.285,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 750.477,
+      "y": 613.62,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 747.448,
+      "y": 609.695,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 719.07,
+      "y": 600.162,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 739.206,
+      "y": 568.144,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 753.227,
+      "y": 570.107,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 754.965,
+      "y": 576.051,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 775.044,
+      "y": 578.182,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 774.651,
+      "y": 588.893,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 829.67,
+      "y": 602.857,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 860.291,
+      "y": 623.605,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 878.912,
+      "y": 619.008,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 878.575,
+      "y": 623.157,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 882.613,
+      "y": 623.382,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 882.165,
+      "y": 618.223,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 898.878,
+      "y": 617.326,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 897.084,
+      "y": 613.289,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 901.009,
+      "y": 621.027,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 905.384,
+      "y": 610.261,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 897.084,
+      "y": 603.532,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 895.403,
+      "y": 578.523,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 894.506,
+      "y": 573.14,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 870.948,
+      "y": 604.092,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 860.853,
+      "y": 598.82,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 846.944,
+      "y": 596.689,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 838.868,
+      "y": 590.297,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 836.736,
+      "y": 608.801,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 805.328,
+      "y": 613.398,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 798.036,
+      "y": 624.164,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 810.823,
+      "y": 638.743,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 820.918,
+      "y": 636.052,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 813.852,
+      "y": 625.398,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 828.434,
+      "y": 634.707,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 842.119,
+      "y": 638.632,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 857.486,
+      "y": 638.745,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 861.524,
+      "y": 640.876,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 879.808,
+      "y": 638.521,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 893.156,
+      "y": 638.298,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 903.925,
+      "y": 638.074,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 908.075,
+      "y": 640.092,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 829.444,
+      "y": 624.726,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 787.716,
+      "y": 636.388,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 782.892,
+      "y": 649.284,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 771.45,
+      "y": 661.845,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 780.648,
+      "y": 662.63,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 781.432,
+      "y": 670.368,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 754.062,
+      "y": 691.451,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 753.95,
+      "y": 690.666,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 730.842,
+      "y": 692.796,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 731.291,
+      "y": 692.235,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 756.416,
+      "y": 716.572,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 755.743,
+      "y": 716.236,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 764.996,
+      "y": 725.937,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 802.405,
+      "y": 736.199,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 823.829,
+      "y": 741.583,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 847.721,
+      "y": 750.78,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 864.884,
+      "y": 728.351,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 864.211,
+      "y": 728.015,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 851.985,
+      "y": 722.519,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 852.658,
+      "y": 722.295,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 851.425,
+      "y": 696.725,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 856.249,
+      "y": 694.931,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 879.468,
+      "y": 699.418,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 873.86,
+      "y": 679.792,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 868.925,
+      "y": 676.651,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 898.874,
+      "y": 685.736,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 905.38,
+      "y": 680.69,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 884.292,
+      "y": 682.708,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 951.649,
+      "y": 706.037,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 952.21,
+      "y": 706.093,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 925.851,
+      "y": 695.326,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 959.951,
+      "y": 693.981,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 978.066,
+      "y": 704.524,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 978.066,
+      "y": 703.682,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 986.927,
+      "y": 706.486,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 995.341,
+      "y": 686.805,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 995.902,
+      "y": 686.749,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 989.228,
+      "y": 680.244,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 970.046,
+      "y": 685.514,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 837.743,
+      "y": 660.052,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 836.621,
+      "y": 664.538,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 816.093,
+      "y": 666.444,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 812.167,
+      "y": 676.537,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 810.26,
+      "y": 684.051,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 806.11,
+      "y": 674.631,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 804.988,
+      "y": 668.35,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 801.96,
+      "y": 667.116,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 793.322,
+      "y": 674.742,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 790.63,
+      "y": 679.228,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 803.866,
+      "y": 685.284,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 811.605,
+      "y": 693.247,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 801.845,
+      "y": 707.041,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 791.977,
+      "y": 657.696,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 792.426,
+      "y": 649.397,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 769.879,
+      "y": 667.34,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 764.158,
+      "y": 671.489,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 726.245,
+      "y": 658.254,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 731.405,
+      "y": 651.526,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 724.9,
+      "y": 637.619,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 811.271,
+      "y": 651.528,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 874.311,
+      "y": 655.119,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 922.544,
+      "y": 654.896,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1052.67,
+      "y": 499.688,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1056.259,
+      "y": 511.8,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1056.483,
+      "y": 516.062,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1052.221,
+      "y": 520.548,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1039.206,
+      "y": 566.079,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1033.374,
+      "y": 561.369,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1054.686,
+      "y": 567.874,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1075.101,
+      "y": 570.566,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1082.055,
+      "y": 574.38,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1077.792,
+      "y": 583.351,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1074.875,
+      "y": 587.613,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1060.966,
+      "y": 590.304,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1063.434,
+      "y": 594.341,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1052.889,
+      "y": 594.341,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1052.446,
+      "y": 507.987,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1084.417,
+      "y": 465.709,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1074.658,
+      "y": 461.559,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1062.319,
+      "y": 461.671,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1058.169,
+      "y": 463.801,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1083.182,
+      "y": 479.391,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1079.816,
+      "y": 489.484,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1078.246,
+      "y": 492.624,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1075.554,
+      "y": 493.97,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1055.477,
+      "y": 452.811,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1055.815,
+      "y": 439.914,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1059.965,
+      "y": 438.792,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1055.703,
+      "y": 428.138,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1059.741,
+      "y": 426.12,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1055.592,
+      "y": 415.017,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1067.595,
+      "y": 387.093,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1059.857,
+      "y": 367.915,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1065.017,
+      "y": 359.504,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1071.523,
+      "y": 363.093,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1052.678,
+      "y": 360.849,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1053.577,
+      "y": 339.093,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1049.091,
+      "y": 317.785,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1049.54,
+      "y": 313.299,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1048.42,
+      "y": 293.112,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1052.908,
+      "y": 263.505,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1054.926,
+      "y": 282.795,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1063.002,
+      "y": 288.178,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1056.944,
+      "y": 301.86,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1061.655,
+      "y": 313.299,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1059.411,
+      "y": 316.888,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1069.282,
+      "y": 316.215,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1078.929,
+      "y": 316.216,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1060.532,
+      "y": 330.57,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1062.999,
+      "y": 345.598,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1064.344,
+      "y": 353,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1077.58,
+      "y": 358.832,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1093.508,
+      "y": 363.318,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1076.685,
+      "y": 323.842,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1081.395,
+      "y": 333.935,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1083.638,
+      "y": 341.337,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1079.151,
+      "y": 353.673,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1088.574,
+      "y": 343.131,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1094.182,
+      "y": 341.561,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1100.015,
+      "y": 353.898,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1019.478,
+      "y": 320.7,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 979.097,
+      "y": 312.848,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 964.963,
+      "y": 322.268,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 881.818,
+      "y": 793.061,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 882.603,
+      "y": 793.285,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 881.257,
+      "y": 793.734,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 1318.505,
+      "y": 672.629,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 956.213,
+      "y": 330.791,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 969.894,
+      "y": 408.285,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 986.158,
+      "y": 417.37,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 978.531,
+      "y": 407.276,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 984.925,
+      "y": 401.781,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 991.207,
+      "y": 396.51,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 996.816,
+      "y": 386.529,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1002.425,
+      "y": 381.483,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1006.687,
+      "y": 383.165,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1012.52,
+      "y": 379.577,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1009.155,
+      "y": 375.539,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 998.275,
+      "y": 370.717,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 998.612,
+      "y": 361.633,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 994.574,
+      "y": 358.717,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 991.769,
+      "y": 367.128,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 981.562,
+      "y": 371.165,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 975.953,
+      "y": 365.557,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 973.148,
+      "y": 386.641,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 960.809,
+      "y": 386.304,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 952.957,
+      "y": 397.855,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 940.169,
+      "y": 402.901,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 935.572,
+      "y": 371.051,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 944.209,
+      "y": 370.042,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 958.005,
+      "y": 378.005,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 954.64,
+      "y": 380.584,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 974.381,
+      "y": 392.136,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 988.066,
+      "y": 393.594,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 996.142,
+      "y": 405.034,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1020.82,
+      "y": 390.119,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1015.324,
+      "y": 394.829,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1011.846,
+      "y": 390.679,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 984.479,
+      "y": 354.791,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 985.152,
+      "y": 347.95,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 980.105,
+      "y": 341.446,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 968.327,
+      "y": 337.52,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 957.783,
+      "y": 347.501,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 942.976,
+      "y": 346.94,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 928.057,
+      "y": 354.565,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 1310.845,
+      "y": 1242.899,
+      "type": "firestation",
+      "nom": "Station 70"
+    },
+    {
+      "x": 1116.164,
+      "y": 404.365,
+      "type": "firestation",
+      "nom": "Station 71"
+    },
+    {
+      "x": 874.25,
+      "y": 1666.5,
+      "type": "firestation",
+      "nom": "Station 72"
+    },
+    {
+      "x": 770.915,
+      "y": 203.833,
+      "type": "firestation",
+      "nom": "Station 73"
+    },
+    {
+      "x": 600.252,
+      "y": 1112.785,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 631.159,
+      "y": 1039.007,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 624.653,
+      "y": 1039.273,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 674.623,
+      "y": 1090.245,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 668.117,
+      "y": 1093.61,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 662.732,
+      "y": 1096.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 683.147,
+      "y": 1100.339,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 670.359,
+      "y": 1107.292,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 582.866,
+      "y": 1103.98,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 586.568,
+      "y": 1109.364,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 585.839,
+      "y": 1109.588,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 639.624,
+      "y": 1118.73,
+      "type": "hydrant-red"
+    },
+    {
+      "x": 684.75,
+      "y": 2008.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 687,
+      "y": 1995.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 700,
+      "y": 1983.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 705.5,
+      "y": 1997.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 719.25,
+      "y": 1970.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 750.5,
+      "y": 1949,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 750.25,
+      "y": 1977.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 758,
+      "y": 1962.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 892.5,
+      "y": 1927.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 871.25,
+      "y": 1918.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 875.25,
+      "y": 1886.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 875,
+      "y": 1859.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 874,
+      "y": 1836.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 884,
+      "y": 1806.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 899,
+      "y": 1796.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 907.25,
+      "y": 1821.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 898.5,
+      "y": 1854.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 929.5,
+      "y": 1851.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 929.5,
+      "y": 1871.25,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 897,
+      "y": 1871.5,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 929,
+      "y": 1903.75,
+      "type": "hydrant-yellow"
+    },
+    {
+      "x": 923,
+      "y": 1935.25,
+      "type": "hydrant-yellow"
+    }
+  ],
+  "hazmatZones": []
+}
