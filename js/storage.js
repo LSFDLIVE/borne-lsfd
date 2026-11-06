@@ -1,5 +1,5 @@
 /* Stockage commun LSFD : données en localStorage, image de carte en IndexedDB. */
-const LSFD_DATA_KEY = 'lsfd-map-data-v3';
+const LSFD_DATA_KEY = 'lsfd-map-data-v4';
 const LSFD_DB_NAME = 'lsfd-map-assets';
 const LSFD_DB_STORE = 'assets';
 
