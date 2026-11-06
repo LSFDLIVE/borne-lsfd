@@ -9,6 +9,9 @@
   catch (error) { alert(error.message); return; }
 
   let selectedType = 'hydrant-red';
+  // Décalage temporaire en coordonnées de l’image (pixels de la carte).
+  // Il est appliqué à l’affichage puis intégré aux données uniquement sur validation.
+  let horizontalOffset = 0;
   let drawingZone = false;
   let zonePoints = [];
   let draftLayer = null;
@@ -21,17 +24,17 @@
   function refresh() {
     markerLayer.clearLayers(); zoneLayer.clearLayers();
     data.markers.forEach((item, index) => {
-      const marker = L.marker([item.y, item.x], { icon: makeMarkerIcon(item.type), draggable: true }).addTo(markerLayer);
+      const marker = L.marker([item.y, item.x + horizontalOffset], { icon: makeMarkerIcon(item.type), draggable: true }).addTo(markerLayer);
       const filter = $('type-menu').querySelector(`[data-filter="${item.type}"]`);
       if (filter && !filter.checked) marker.setOpacity(0);
       marker.bindTooltip(markerTooltipContent(item), { direction: 'top', offset: [0,-18], opacity: 1, className: 'lsfd-tooltip' });
       marker.on('dragend', () => {
-        const p = marker.getLatLng(); item.x = p.lng; item.y = p.lat; save(); status('Position du marqueur enregistrée.');
+        const p = marker.getLatLng(); item.x = p.lng - horizontalOffset; item.y = p.lat; save(); status('Position du marqueur enregistrée.');
       });
-      marker.on('click', () => editMarker(index, marker));
+      marker.on('click', () => editMarker(index));
     });
     data.hazmatZones.forEach((zone, index) => {
-      const polygon = L.polygon(zone.points.map(p => [p.y,p.x]), {
+      const polygon = L.polygon(zone.points.map(p => [p.y,p.x + horizontalOffset]), {
         color: zone.color || '#eab308', fillColor: zone.color || '#eab308',
         fillOpacity: Number.isFinite(zone.opacity) ? zone.opacity : 0.28, weight: 2
       }).addTo(zoneLayer);
@@ -42,49 +45,41 @@
     if (draftLayer) draftLayer.addTo(map);
   }
 
-  function editMarker(index, marker) {
+  function editMarker(index) {
     const item = data.markers[index];
     const facility = ['firestation','hospital'].includes(item.type);
     const popup = `<div class="marker-editor"><strong>${escapeHtml(TYPE_INFO[item.type].label)}</strong><label>Nom</label><input id="popup-name" value="${escapeHtml(item.nom || TYPE_INFO[item.type].label)}"><label>Commentaire</label><textarea id="popup-comment" rows="2" ${facility ? '' : 'disabled'}>${escapeHtml(item.commentaire || '')}</textarea><div class="popup-actions"><button class="save-popup" id="popup-save">Enregistrer</button><button class="delete-popup" id="popup-delete">Supprimer</button></div></div>`;
-    // Attacher les événements AVANT openPopup : Leaflet peut déclencher
-    // popupopen immédiatement, sinon les boutons restent sans action.
-    marker.bindPopup(popup);
+    const marker = markerLayer.getLayers()[index];
+    marker.bindPopup(popup).openPopup();
     marker.once('popupopen', () => {
       $('popup-save').onclick = () => {
         item.nom = $('popup-name').value.trim() || TYPE_INFO[item.type].label;
         if (facility) item.commentaire = $('popup-comment').value.trim();
-        marker.closePopup(); save(); refresh(); status('Informations enregistrées.');
+        save(); refresh(); status('Informations enregistrées.');
       };
       $('popup-delete').onclick = () => {
         if (!confirm('Supprimer cet emplacement ?')) return;
-        marker.closePopup();
-        data.markers.splice(index, 1);
-        save(); refresh(); status('Emplacement supprimé.');
+        data.markers.splice(index, 1); save(); refresh(); status('Emplacement supprimé.');
       };
     });
-    marker.openPopup();
   }
 
   function editZone(index) {
     const zone = data.hazmatZones[index];
     const popup = `<div class="marker-editor"><strong>Zone HAZMAT</strong><label>Nom</label><input id="zone-name" value="${escapeHtml(zone.nom || 'Zone HAZMAT')}"><label>Couleur</label><input id="zone-color" type="color" value="${escapeHtml(zone.color || '#eab308')}"><label>Transparence : <span id="opacity-value">${zone.opacity ?? 0.28}</span></label><input id="zone-opacity" type="range" min="0" max="1" step="0.05" value="${zone.opacity ?? 0.28}"><div class="popup-actions"><button class="save-popup" id="zone-save">Enregistrer</button><button class="delete-popup" id="zone-delete">Supprimer</button></div></div>`;
     const polygon = zoneLayer.getLayers()[index];
-    // Même ordre que pour les marqueurs : écouter avant d'ouvrir la popup.
-    polygon.bindPopup(popup);
+    polygon.bindPopup(popup).openPopup();
     polygon.once('popupopen', () => {
       $('zone-opacity').oninput = () => $('opacity-value').textContent = $('zone-opacity').value;
       $('zone-save').onclick = () => {
         zone.nom = $('zone-name').value.trim() || 'Zone HAZMAT'; zone.color = $('zone-color').value; zone.opacity = Number($('zone-opacity').value);
-        polygon.closePopup(); save(); refresh(); status('Zone HAZMAT mise à jour.');
+        save(); refresh(); status('Zone HAZMAT mise à jour.');
       };
       $('zone-delete').onclick = () => {
         if (!confirm('Supprimer cette zone HAZMAT ?')) return;
-        polygon.closePopup();
-        data.hazmatZones.splice(index, 1);
-        save(); refresh(); status('Zone HAZMAT supprimée.');
+        data.hazmatZones.splice(index, 1); save(); refresh(); status('Zone HAZMAT supprimée.');
       };
     });
-    polygon.openPopup();
   }
 
   document.querySelectorAll('[data-type]').forEach(button => button.addEventListener('click', () => {
@@ -119,16 +114,42 @@
 
   map.on('click', e => {
     if (drawingZone) {
-      zonePoints.push({ x:e.latlng.lng, y:e.latlng.lat });
+      zonePoints.push({ x:e.latlng.lng - horizontalOffset, y:e.latlng.lat });
       draftLayer.setLatLngs(zonePoints.map(p => [p.y,p.x])); return;
     }
     if (!selectedType) return;
-    const item = { x:e.latlng.lng, y:e.latlng.lat, type:selectedType };
+    const item = { x:e.latlng.lng - horizontalOffset, y:e.latlng.lat, type:selectedType };
     if (['firestation','hospital'].includes(selectedType)) {
       item.nom = prompt(`Nom de ${TYPE_INFO[selectedType].label.toLowerCase()} :`, TYPE_INFO[selectedType].label) || TYPE_INFO[selectedType].label;
       item.commentaire = prompt('Commentaire affiché au survol (facultatif) :', '') || '';
     }
     data.markers.push(item); save(); refresh(); status(`${TYPE_INFO[selectedType].label} ajouté.`);
+  });
+
+  // Réglage global : prévisualisation non destructive, puis validation dans les données.
+  $('horizontal-offset').addEventListener('input', e => {
+    horizontalOffset = Number(e.target.value) || 0;
+    $('offset-value').textContent = `${horizontalOffset} px`;
+    refresh();
+    status(`Aperçu : marqueurs et zones déplacés de ${horizontalOffset} px vers la droite. Cliquez sur « Appliquer » pour enregistrer.`);
+  });
+  $('apply-offset-btn').addEventListener('click', () => {
+    if (horizontalOffset === 0) return status('Aucun décalage à appliquer.');
+    if (!confirm(`Appliquer un décalage de ${horizontalOffset} pixels vers la droite à tous les marqueurs et toutes les zones HAZMAT ?`)) return;
+    data.markers.forEach(item => { item.x += horizontalOffset; });
+    data.hazmatZones.forEach(zone => zone.points.forEach(point => { point.x += horizontalOffset; }));
+    const applied = horizontalOffset;
+    horizontalOffset = 0;
+    $('horizontal-offset').value = '0';
+    $('offset-value').textContent = '0 px';
+    save(); refresh();
+    status(`Décalage de ${applied} px appliqué et enregistré dans les données.`);
+  });
+  $('reset-offset-btn').addEventListener('click', () => {
+    horizontalOffset = 0;
+    $('horizontal-offset').value = '0';
+    $('offset-value').textContent = '0 px';
+    refresh(); status('Aperçu du décalage annulé. Les données n’ont pas été modifiées.');
   });
 
   $('copy-json-btn').addEventListener('click', async () => {
